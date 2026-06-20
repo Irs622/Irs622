@@ -1,264 +1,91 @@
-<div align="center">
+# Hi, I'm LM. Irsal Shydiq 👋
 
-# LM. Irsal Shydiq
+Informatics Engineering Student at UIN Sunan Gunung Djati Bandung.
 
-### Mobile Developer • AI Enthusiast • Cloud & Distributed Systems
-
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+Accessible+Technology;Mobile+Developer;AI+%26+Cloud+Computing+Enthusiast;Exploring+Distributed+Systems;Engineering+for+Impact" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Irs622&style=for-the-badge&color=blue" />
-
-</div>
-
----
+I build software focused on accessibility, education, artificial intelligence, and cloud-native technologies. My interests span from mobile application development to distributed systems and modern infrastructure.
 
 ## About Me
 
-```yaml
-name: LM. Irsal Shydiq
-location: Bandung, Indonesia
-education: Informatics Engineering
-university: UIN Sunan Gunung Djati Bandung
+- 🎓 Informatics Engineering Student
+- 📱 Mobile Developer
+- 🤖 AI & Machine Learning Enthusiast
+- ☁️ Cloud Computing & Distributed Systems Enthusiast
+- ♿ Interested in Accessibility Technology
+- 🔍 Exploring Software Architecture & System Design
 
-interests:
-  - Mobile Development
-  - Artificial Intelligence
-  - Cloud Computing
-  - Distributed Systems
-  - Accessibility Technology
-  - System Design
+## Current Focus
 
-currently_learning:
-  - Kubernetes
-  - Cloud Native Architecture
-  - AI Engineering
-  - DevOps
-  - Software Architecture
-```
-
----
-
-## Current Mission
-
-Building technology that is:
-
-- Accessible
-- Useful
-- Scalable
-- Human-Centered
-
-I enjoy solving problems through software, especially in education, accessibility, cloud infrastructure, and intelligent systems.
-
----
-
-## Featured Projects
-
-### AR Hijaiyah Learning Application
-
-Voice-assisted Arabic learning platform designed for visually impaired users.
-
-**Stack**
-
-`Kotlin` `Android` `ARCore` `Firebase` `Blender`
-
----
-
-### Hadith Arba'in Mobile App
-
-Accessible Islamic learning application with inclusive user experience.
-
-**Stack**
-
-`Kotlin` `Android` `Firebase`
-
----
-
-### Bahara App
-
-Digital accessibility solution focusing on user-centered design and inclusive technology.
-
-**Role**
-
-- Product Development
-- UI/UX Design
 - Android Development
-- Accessibility Research
-
----
-
-### Library of Focus
-
-Interactive educational maze game created for cognitive learning exhibitions.
-
-**Stack**
-
-`React Native` `JavaScript`
-
----
+- Artificial Intelligence
+- Cloud Computing
+- Kubernetes
+- Distributed Systems
+- DevOps Practices
+- Accessibility-Oriented Applications
 
 ## Research Interests
 
-<table>
-<tr>
-<td>
-
-### Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-
-</td>
-
-<td>
-
-### Cloud Computing
-
+- Artificial Intelligence
+- Distributed Computing
+- Cloud Infrastructure
 - Kubernetes
-- Container Orchestration
+- Deep Reinforcement Learning
 - Cloud Cost Optimization
+- Cybersecurity
+- Data Center Technology
 
-</td>
+## Tech Stack
 
-</tr>
+### Programming Languages
 
-<tr>
-<td>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Distributed Systems
+### Mobile Development
 
-- Scalability
-- Reliability
-- Observability
-
-</td>
-
-<td>
-
-### Cybersecurity
-
-- Infrastructure Security
-- Cloud Security
-- Secure Architecture
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Technology Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,javascript,typescript"/>
-</p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,react"/>
-</p>
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Frontend & Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,html,css"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase,githubactions,git"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Tools
+## GitHub Statistics
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,blender,vscode,androidstudio"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irs622&show_icons=true&theme=github_dark)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irs622&layout=compact&theme=github_dark)
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Irs622&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irs622&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irs622&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## Coding Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Irs622&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Irs622/Irs622/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 2026 Roadmap
+## Currently Learning
 
 ```text
-✓ Mobile Development
-✓ Accessibility Technology
-
-◉ Artificial Intelligence
-◉ Kubernetes
-◉ Cloud Native Engineering
-
-◎ Distributed Systems Research
-◎ Deep Reinforcement Learning
-◎ AI Infrastructure Engineering
+Artificial Intelligence Engineering
+Cloud Native Architecture
+Kubernetes Ecosystem
+Distributed Systems
+System Design
+DevOps Engineering
 ```
-
----
 
 ## Connect
 
-<p align="left">
-<a href="https://github.com/Irs622">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/lm-irsal-shydiq">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-</p>
+- LinkedIn: https://linkedin.com/in/lm-irsal-shydiq
+- GitHub: https://github.com/Irs622
 
 ---
 
-<div align="center">
-
-### "Building technology that is accessible, useful, and scalable."
-
-</div>
+> Building technology that is accessible, useful, and scalable.
