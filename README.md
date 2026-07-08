@@ -71,6 +71,7 @@ I build software focused on accessibility, education, artificial intelligence, a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irs622&layout=compact&theme=github_dark)
 
+
 ## Currently Learning
 
 ```text
