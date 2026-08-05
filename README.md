@@ -1,129 +1,200 @@
+<div align="center">
+
 # Hi, I'm Irsal Shydiq 👋
 
-### Informatics Engineering Student • Software Engineer • AI & Cloud Enthusiast
+### Software Engineer • AI Engineer • Cloud Native Enthusiast
 
-I am an Informatics Engineering student at **UIN Sunan Gunung Djati Bandung** who enjoys building software that solves real-world problems.
+Building intelligent systems, scalable infrastructure, and accessibility-first software.
 
-My interests focus on **Artificial Intelligence, Accessibility Technology, Cloud Computing, and Distributed Systems**. I enjoy designing scalable systems, developing mobile applications, and exploring modern software architecture.
+<p>
+  <a href="https://github.com/Irs622">
+    <img src="https://komarev.com/ghpvc/?username=Irs622&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/Irs622?tab=followers">
+    <img src="https://img.shields.io/github/followers/Irs622?style=social" />
+  </a>
+</p>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Artificial+Intelligence+Enthusiast;Cloud+Native+Learner;Accessibility+Advocate;Building+AntiGrafiti+AI+Operating+System" />
 
-## 🚀 About Me
-
-- 🎓 B.Sc. Informatics Engineering (Expected 2027)
-- 💻 Software Engineer
-- 📱 Android & Cross-platform Developer
-- 🤖 AI Engineering Enthusiast
-- ☁️ Cloud Native & DevOps Learner
-- ♿ Passionate about Accessibility Technology
-- 📚 Always learning new technologies
-
----
-
-## 💡 What I'm Working On
-
-- 🤖 AntiGrafiti AI Operating System
-- 📱 Accessibility-focused Mobile Applications
-- ☁️ Cloud Native Infrastructure
-- 🧠 AI Agents & LLM Engineering
-- ⚙️ Kubernetes & Distributed Systems
-- 🔒 Secure Software Engineering
+</div>
 
 ---
 
-## 🧪 Research Interests
+# About Me
 
-- Artificial Intelligence
-- Multi-Agent Systems
-- Accessibility Computing
-- Distributed Systems
-- Cloud Infrastructure
-- Kubernetes
-- Cybersecurity
-- Deep Reinforcement Learning
-- Software Architecture
+I'm an Informatics Engineering student at **UIN Sunan Gunung Djati Bandung** with a strong interest in building software that is **accessible, intelligent, secure, and scalable**.
+
+My work spans **Artificial Intelligence**, **Cloud Computing**, **Distributed Systems**, **Software Architecture**, and **Mobile Development**. I enjoy solving real-world problems by combining modern engineering practices with practical user-centered design.
+
+Currently, I'm building **AntiGrafiti**, a model-agnostic AI Operating System designed to automate workflows, assist software development, and integrate intelligent agents into everyday computing.
 
 ---
 
-# 🛠 Tech Stack
+# What I Do
+
+- 🤖 Build AI-powered applications
+- ☁️ Explore Cloud Native technologies
+- ⚙️ Design scalable software architecture
+- 📱 Develop Android & Cross-platform applications
+- 🔒 Learn secure software engineering
+- ♿ Build accessibility-first solutions
+- 🚀 Practice DevOps & Infrastructure Automation
+
+---
+
+# Engineering Interests
+
+```text
+Artificial Intelligence
+Large Language Models
+AI Agents
+Distributed Systems
+Cloud Computing
+Cloud Native
+Platform Engineering
+Kubernetes
+DevOps
+System Design
+Accessibility Technology
+Cybersecurity
+```
+
+---
+
+# Tech Stack
 
 ## Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,cpp,js,ts"/>
+
+</p>
 
 ## Mobile
 
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=android,flutter,react"/>
 
-## Web
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## Backend & Frontend
 
----
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,laravel"/>
+
+</p>
 
 ## Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase,githubactions,linux"/>
+
+</p>
+
+## Database & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,git,vscode"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+# Currently Learning
 
-<p align="center">
+- Multi-Agent Systems
+- AI Engineering
+- Cloud Native Architecture
+- Kubernetes Ecosystem
+- Distributed Computing
+- Platform Engineering
+- Infrastructure as Code
+- Machine Learning Engineering
+
+---
+
+# GitHub Analytics
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Irs622&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irs622&layout=compact&theme=github_dark&hide_border=true"/>
 
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Irs622&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irs622&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Open Source Goals
+
+- Build impactful open-source software
+- Contribute to AI and Cloud Native ecosystems
+- Publish research and engineering projects
+- Design accessible technology for everyone
+- Continuously improve software architecture skills
+
+---
+
+# Current Mission
+
+> Build software that is not only functional, but also intelligent, accessible, secure, and scalable.
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Irs622">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/lm-irsal-shydiq">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Irs622&theme=github-dark&hide_border=true"/>
+**GitHub**
+
+https://github.com/Irs622
+
+**LinkedIn**
+
+https://linkedin.com/in/lm-irsal-shydiq
 
 </p>
-
----
-
-# 🌱 Currently Learning
-
-- AI Engineering
-- Multi-Agent Systems
-- Cloud Native Architecture
-- Kubernetes Ecosystem
-- DevOps Engineering
-- Software Architecture
-- Distributed Systems
-
----
-
-# 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lm-irsal-shydiq)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Irs622)
 
 ---
 
 <div align="center">
 
-### *Building accessible, intelligent, and scalable software.*
+### Thanks for visiting my profile.
+
+*"Building technology that empowers people through intelligence, accessibility, and scalable engineering."*
 
 </div>
