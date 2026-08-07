@@ -27,8 +27,6 @@ I'm an Informatics Engineering student at **UIN Sunan Gunung Djati Bandung** wit
 
 My work spans **Artificial Intelligence**, **Cloud Computing**, **Distributed Systems**, **Software Architecture**, and **Mobile Development**. I enjoy solving real-world problems by combining modern engineering practices with practical user-centered design.
 
-Currently, I'm building **AntiGrafiti**, a model-agnostic AI Operating System designed to automate workflows, assist software development, and integrate intelligent agents into everyday computing.
-
 ---
 
 # What I Do
