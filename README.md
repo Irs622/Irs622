@@ -2,9 +2,8 @@
 
 # Hi, I'm Irsal Shydiq 👋
 
-### Software Engineer • AI Engineer • Cloud Native Enthusiast
-
-Building intelligent systems, scalable infrastructure, and accessibility-first software.
+**Software Engineer • AI Engineer • Cloud Native Enthusiast**  
+*Informatics Engineering Student at UIN Sunan Gunung Djati Bandung*
 
 <p>
   <a href="https://github.com/Irs622">
@@ -15,184 +14,55 @@ Building intelligent systems, scalable infrastructure, and accessibility-first s
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Artificial+Intelligence+Enthusiast;Cloud+Native+Learner;Accessibility+Advocate;Building+AntiGrafiti+AI+Operating+System" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering;AI+%26+Multi-Agent+Systems;Cloud+Native+%26+DevOps;Building+AntiGrafiti+AI+OS" />
 
 </div>
 
 ---
 
-# About Me
-
-I'm an Informatics Engineering student at **UIN Sunan Gunung Djati Bandung** with a strong interest in building software that is **accessible, intelligent, secure, and scalable**.
-
-My work spans **Artificial Intelligence**, **Cloud Computing**, **Distributed Systems**, **Software Architecture**, and **Mobile Development**. I enjoy solving real-world problems by combining modern engineering practices with practical user-centered design.
+### ⚡ Quick Overview
+Focusing on building **intelligent, scalable, secure, and accessible** software solutions across AI, Cloud, and Mobile ecosystems.
 
 ---
 
-# What I Do
+### 🛠️ Tech Stack
 
-- 🤖 Build AI-powered applications
-- ☁️ Explore Cloud Native technologies
-- ⚙️ Design scalable software architecture
-- 📱 Develop Android & Cross-platform applications
-- 🔒 Learn secure software engineering
-- ♿ Build accessibility-first solutions
-- 🚀 Practice DevOps & Infrastructure Automation
+**Languages & Mobile**  
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,cpp,js,ts,android,flutter,react"/>
 
----
+**Backend, Web & DB**  
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,laravel,mysql,postgresql,sqlite"/>
 
-# Engineering Interests
-
-```text
-Artificial Intelligence
-Large Language Models
-AI Agents
-Distributed Systems
-Cloud Computing
-Cloud Native
-Platform Engineering
-Kubernetes
-DevOps
-System Design
-Accessibility Technology
-Cybersecurity
-```
+**Cloud, DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase,githubactions,linux,git,vscode"/>
 
 ---
 
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,cpp,js,ts"/>
-
-</p>
-
-## Mobile
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=android,flutter,react"/>
-
-</p>
-
-## Backend & Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,laravel"/>
-
-</p>
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase,githubactions,linux"/>
-
-</p>
-
-## Database & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,git,vscode"/>
-
-</p>
+### 🎯 Core Focus & Learning
+- **AI:** Multi-Agent Systems, LLMs, AI Agents
+- **Cloud & DevOps:** Kubernetes, Platform Engineering, Distributed Systems
+- **Software:** System Design, Mobile Apps, Accessibility & Security
 
 ---
 
-# Currently Learning
-
-- Multi-Agent Systems
-- AI Engineering
-- Cloud Native Architecture
-- Kubernetes Ecosystem
-- Distributed Computing
-- Platform Engineering
-- Infrastructure as Code
-- Machine Learning Engineering
-
----
-
-# GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Irs622&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irs622&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Irs622&theme=github-dark&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Irs622&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irs622&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# Activity Graph
+### 📫 Connect With Me
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irs622&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Open Source Goals
-
-- Build impactful open-source software
-- Contribute to AI and Cloud Native ecosystems
-- Publish research and engineering projects
-- Design accessible technology for everyone
-- Continuously improve software architecture skills
-
----
-
-# Current Mission
-
-> Build software that is not only functional, but also intelligent, accessible, secure, and scalable.
-
----
-
-# Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Irs622">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/lm-irsal-shydiq">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
+  <a href="https://github.com/Irs622"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://linkedin.com/in/lm-irsal-shydiq"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 <p align="center">
-
-**GitHub**
-
-https://github.com/Irs622
-
-**LinkedIn**
-
-https://linkedin.com/in/lm-irsal-shydiq
-
+  <b>GitHub:</b> <a href="https://github.com/Irs622">Irs622</a> | <b>LinkedIn:</b> <a href="https://linkedin.com/in/lm-irsal-shydiq">lm-irsal-shydiq</a>
 </p>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile.
-
-*"Building technology that empowers people through intelligence, accessibility, and scalable engineering."*
-
-</div>
