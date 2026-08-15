@@ -16,12 +16,6 @@
 
 </div>
 
----
-
-### ⚡ Quick Overview
-Focusing on building **intelligent, scalable, secure, and accessible** software solutions across AI, Cloud, and Mobile ecosystems.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -34,14 +28,6 @@ Focusing on building **intelligent, scalable, secure, and accessible** software 
 **Cloud, DevOps & Tools**  
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase,githubactions,linux,git,vscode"/>
 
----
-
-### 🎯 Core Focus & Learning
-- **AI:** Multi-Agent Systems, LLMs, AI Agents
-- **Cloud & DevOps:** Kubernetes, Platform Engineering, Distributed Systems
-- **Software:** System Design, Mobile Apps, Accessibility & Security
-
----
 
 ### 📫 Connect With Me
 
