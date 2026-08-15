@@ -1,8 +1,6 @@
 <div align="center">
 
 # Hi, I'm Irsal Shydiq 👋
-
-**Software Engineer • AI Engineer • Cloud Native Enthusiast**  
 *Informatics Engineering Student at UIN Sunan Gunung Djati Bandung*
 
 <p>
