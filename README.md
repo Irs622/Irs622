@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering;AI+%26+Multi-Agent+Systems;Cloud+Native+%26+DevOps;Building+AntiGrafiti+AI+OS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering" />
 
 </div>
 
