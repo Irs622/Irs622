@@ -25,12 +25,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I'm a **Full-Stack Developer** based in Bandung, Indonesia, with experience building robust web and mobile applications (iOS & Android). My development focus spans across **accessibility, education, AI, and cloud software**. I prioritize clean UI/UX, design systems, and scalable software architecture driven by an evidence-first approach and strict guidelines like zero kernel mutations.
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages & Mobile**  
