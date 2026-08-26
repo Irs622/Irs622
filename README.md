@@ -51,15 +51,6 @@ I'm a **Full-Stack Developer** based in Bandung, Indonesia, with experience buil
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irs622&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irs622&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" height="150" alt="Top Languages" />
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
