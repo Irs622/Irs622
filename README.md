@@ -2,6 +2,6 @@
   <img
     src="./irsal-profile-banner.svg"
     alt="Irsal Shydiq — Software Engineering"
-    width="100%"
+    width="90%"
   />
 </p>
