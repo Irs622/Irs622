@@ -192,11 +192,14 @@
       <rect x="650" y="65" width="305" height="291" rx="10"
         fill="#0D1117" stroke="#30363D"/>
 
-      <text x="671" y="91" fill="#F0F6FC"
-        font-size="12.5" font-weight="600" class="sans">
-        Hello, developer!
+      <!-- Greeting -->
+      <path d="M671 280H934" stroke="#30363D"/>
+      
+      <text x="743" y="91" fill="#F0F6FC"
+        font-size="13" font-weight="600" class="sans">
+        Hello, developer:)
       </text>
-
+      
       <circle cx="932" cy="86" r="4" fill="#3FB950" class="pulse"/>
 
       <path d="M650 106H955" stroke="#30363D"/>
