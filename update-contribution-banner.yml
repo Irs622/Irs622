@@ -1,0 +1,40 @@
+name: Update GitHub contribution banner
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 02:17 UTC (09:17 WIB)
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-banner:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync contribution graph into SVG
+        env:
+          CONTRIBUTION_TOKEN: ${{ secrets.CONTRIBUTION_TOKEN }}
+          GITHUB_USERNAME: Irs622
+        run: python scripts/update_contributions.py
+
+      - name: Commit updated banner if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-banner.svg
+          if git diff --cached --quiet; then
+            echo "Contribution banner is already up to date."
+          else
+            git commit -m "chore: update contribution banner"
+            git push
+          fi
