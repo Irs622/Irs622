@@ -1,113 +1,127 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" fill="none" role="img" aria-labelledby="title description">
   <title id="title">Irsal Shydiq — Software Engineering</title>
-  <desc id="description">Irsal Shydiq, Informatics Engineering student and full-stack developer interested in AI applications, accessibility, and secure software. Dark circuit-board design with light-blue signals.</desc>
+  <desc id="description">Irsal Shydiq, Informatics Engineering student and full-stack developer interested in AI applications, accessibility, and secure software. GitHub dark theme with contribution squares synchronized by GitHub Actions.</desc>
 
   <defs>
-    <linearGradient id="board" x1="0" y1="0" x2="1000" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#131D29"/><stop offset=".55" stop-color="#0B1119"/><stop offset="1" stop-color="#101B27"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1000" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/><stop offset="1" stop-color="#0D1117"/>
     </linearGradient>
-    <radialGradient id="glow-bg" cx="0" cy="0" r="1" gradientTransform="translate(690 200) scale(370 300)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8" stop-opacity=".12"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="1000" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#283746"/><stop offset="1" stop-color="#7DD3FC"/>
+    <linearGradient id="border" x1="0" y1="0" x2="1000" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30363D"/><stop offset=".5" stop-color="#484F58"/><stop offset="1" stop-color="#30363D"/>
     </linearGradient>
-    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".6" fill="#94A3B8" opacity=".16"/></pattern>
-    <filter id="signal-glow" x="-100%" y="-100%" width="300%" height="300%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".7" fill="#8B949E" opacity=".12"/>
+    </pattern>
+    <filter id="greenGlow" x="-100%" y="-100%" width="300%" height="300%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <clipPath id="card"><rect x="1" y="1" width="998" height="418" rx="22"/></clipPath>
-    <path id="route1" d="M470 0V34L546 110H694"/>
-    <path id="route2" d="M532 0V62L578 108V168H694"/>
-    <path id="route3" d="M574 420V307L619 262V226H694"/>
-    <path id="route4" d="M469 420V389L574 284H694"/>
-    <path id="route5" d="M630 420V380L668 342H694"/>
-    <path id="route6" d="M0 313H20L37 330V369L54 386H315L343 414H399"/>
-    <path id="route7" d="M0 57H132L153 36H338L368 6"/>
-    <path id="route8" d="M944 168H963L982 149V41L964 23H742L719 0"/>
-    <path id="route9" d="M944 284H967L981 298V379L965 395H808L783 420"/>
+    <clipPath id="card"><rect x="1" y="1" width="998" height="418" rx="16"/></clipPath>
+    <path id="route1" d="M465 0V39L511 85H624"/>
+    <path id="route2" d="M530 0V58L567 95V141H624"/>
+    <path id="route3" d="M565 420V343L605 303V276H624"/>
+    <path id="route4" d="M465 420V389L543 311H624"/>
+    <path id="route5" d="M620 420V382L661 341H695"/>
+    <path id="route6" d="M0 326H28L49 347V377L72 400H310"/>
+    <path id="route7" d="M0 54H126L150 30H343L373 0"/>
+    <path id="route8" d="M1000 75H972L956 91V123H951"/>
+    <path id="route9" d="M1000 315H975L958 332V377L940 395H815"/>
   </defs>
 
   <style>
     .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
     .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
-    .signal { stroke: #7DD3FC; stroke-width: 3; stroke-linecap: round; stroke-dasharray: 46 254; stroke-dashoffset: 300; animation: flow 3s linear infinite; filter: url(#signal-glow); }
-    .slow { animation-duration: 5s; }
+    .signal { stroke: #26A641; stroke-width: 2.5; stroke-linecap: round; stroke-dasharray: 32 220; stroke-dashoffset: 252; animation: flow 4s linear infinite; filter: url(#greenGlow); }
+    .slow { animation-duration: 6s; }
     @keyframes flow { to { stroke-dashoffset: 0; } }
     @media (prefers-reduced-motion: reduce) { .signal { animation: none; } }
   </style>
 
   <g clip-path="url(#card)">
-    <rect width="1000" height="420" fill="url(#board)"/>
+    <rect width="1000" height="420" fill="url(#background)"/>
     <rect width="1000" height="420" fill="url(#grid)"/>
-    <rect width="1000" height="420" fill="url(#glow-bg)"/>
 
-    <g stroke="#38BDF8" stroke-opacity=".22" stroke-width="1.2" stroke-linejoin="round">
+    <!-- Etched tracks around the profile and contribution panel -->
+    <g stroke="#30363D" stroke-width="1.2" stroke-linejoin="round">
       <use href="#route1"/><use href="#route2"/><use href="#route3"/><use href="#route4"/><use href="#route5"/>
       <use href="#route6"/><use href="#route7"/><use href="#route8"/><use href="#route9"/>
-      <path d="M452 0V40L534 122H658L676 140H694M486 0V28L556 98H666L678 110H686"/>
-      <path d="M516 0V66L564 114V178L580 194H648L674 168H686M548 0V55L593 100V154H643L657 168H686"/>
-      <path d="M555 420V302L604 253V211H653L668 226H686M591 420V312L634 269V243H665L682 226"/>
-      <path d="M451 420V383L562 272H658L670 284H686M488 420V394L586 296H657L669 284"/>
-      <path d="M614 420V375L659 330H675L687 342M647 420V384L677 354H694"/>
-      <path d="M0 41H126L148 20H334L354 0M0 73H138L159 52H345L384 13V0M0 329H8L21 342V375L48 402H308L327 420"/>
-      <path d="M944 110H950L965 95V53L951 39H759M944 226H964L998 192M944 342H958L965 349V366L952 379H818L777 420"/>
+      <path d="M447 0V49L490 92H610L624 106M486 0V31L544 89H610L624 103"/>
+      <path d="M515 0V69L550 104V154L576 180H605L624 161M550 420V350L589 311V286H608L624 270"/>
+      <path d="M445 420V383L521 307H610L624 293M0 76H138L166 48H320"/>
+      <path d="M0 307H20L41 328V369L69 397H297M1000 104H979L963 120V145"/>
     </g>
-
     <g>
       <use href="#route1" class="signal" style="animation-delay:-1s"/>
-      <use href="#route2" class="signal" style="animation-delay:-4s"/>
-      <use href="#route3" class="signal" style="animation-delay:-2.8s"/>
-      <use href="#route4" class="signal" style="animation-delay:-5.5s"/>
-      <use href="#route5" class="signal" style="animation-delay:-.6s"/>
-      <use href="#route6" class="signal slow" style="animation-delay:-7s"/>
-      <use href="#route7" class="signal slow" style="animation-delay:-3s"/>
-      <use href="#route8" class="signal slow" style="animation-delay:-5s"/>
-      <use href="#route9" class="signal slow" style="animation-delay:-8s"/>
+      <use href="#route2" class="signal slow" style="animation-delay:-3s"/>
+      <use href="#route3" class="signal" style="animation-delay:-2s"/>
+      <use href="#route4" class="signal slow" style="animation-delay:-4s"/>
+      <use href="#route5" class="signal" style="animation-delay:-.5s"/>
+      <use href="#route6" class="signal slow" style="animation-delay:-5s"/>
+      <use href="#route7" class="signal" style="animation-delay:-2.5s"/>
+      <use href="#route8" class="signal slow" style="animation-delay:-4s"/>
+      <use href="#route9" class="signal slow" style="animation-delay:-3.5s"/>
     </g>
 
-    <g fill="#0B1119" stroke="#38BDF8" stroke-width="1.3">
-      <circle cx="759" cy="39" r="3"/><circle cx="399" cy="414" r="3"/>
-      <circle cx="658" cy="122" r="3"/><circle cx="648" cy="194" r="3"/>
-      <circle cx="653" cy="211" r="3"/><circle cx="657" cy="296" r="3"/><circle cx="675" cy="330" r="3"/>
-    </g>
-
+    <!-- Profile identity -->
     <g class="sans">
-      <rect x="64" y="80" width="22" height="3" rx="1.5" fill="#7DD3FC"/>
-      <text x="98" y="86" fill="#A5DFF8" font-size="11.5" font-weight="600" letter-spacing="1.65">SOFTWARE ENGINEERING</text>
-      <text x="61" y="158" fill="#F4F7FB" font-size="55" font-weight="650" letter-spacing="-1.9">Irsal</text>
-      <text x="61" y="215" fill="#F4F7FB" font-size="55" font-weight="650" letter-spacing="-1.9">Shydiq<tspan fill="#7DD3FC">.</tspan></text>
-
-      <g transform="translate(65 242)" stroke="#7DD3FC" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round">
+      <rect x="64" y="78" width="22" height="3" rx="1.5" fill="#26A641"/>
+      <text x="98" y="85" fill="#3FB950" font-size="11" font-weight="600" letter-spacing="1.8">SOFTWARE ENGINEERING</text>
+      <text x="61" y="158" fill="#F0F6FC" font-size="55" font-weight="650" letter-spacing="-1.9">Irsal</text>
+      <text x="61" y="215" fill="#F0F6FC" font-size="55" font-weight="650" letter-spacing="-1.9">Shydiq<tspan fill="#3FB950">.</tspan></text>
+      <g transform="translate(65 242)" stroke="#3FB950" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round">
         <path d="M0 6L8 2L16 6L8 10Z"/><path d="M3 8V12C6 15 10 15 13 12V8"/><path d="M16 6V12"/>
       </g>
-      <text x="91" y="258" fill="#B8C7D4" font-size="14.5">Informatics Engineering Student</text>
-      <path d="M64 291H112" stroke="#38BDF8"/>
-      <text x="64" y="319" fill="#E0EAF3" font-size="15" font-weight="500">From ideas to working software.</text>
-      <text x="64" y="343" fill="#8E9EAE" font-size="13.5">AI applications, accessibility &amp; secure systems.</text>
+      <text x="91" y="258" fill="#C9D1D9" font-size="14.5">Informatics Engineering Student</text>
+      <path d="M64 291H112" stroke="#3FB950" stroke-width="1.5"/>
+      <text x="64" y="319" fill="#F0F6FC" font-size="15" font-weight="500">Building useful software.</text>
+      <text x="64" y="343" fill="#8B949E" font-size="13.5">AI applications, accessibility &amp; secure systems.</text>
     </g>
 
-    <g class="sans">
-      <text x="694" y="83" fill="#93C5DF" font-size="10" letter-spacing="2.4" class="mono">MY APPROACH</text>
-      <path d="M694 101H926" stroke="#385063" stroke-width="1"/>
-      <text x="694" y="145" fill="#E6EDF5" font-size="26" font-weight="600" letter-spacing="-.6">Build with purpose.</text>
-      <text x="694" y="174" fill="#8E9EAE" font-size="13.5">Solve real problems through software.</text>
-      <path d="M694 201H926" stroke="#385063" stroke-width="1"/>
-      <circle cx="701" cy="229" r="3" fill="#7DD3FC"/>
-      <text x="716" y="234" fill="#C7D7E5" font-size="14">Intelligent applications</text>
-      <circle cx="701" cy="266" r="3" fill="#7DD3FC"/>
-      <text x="716" y="271" fill="#C7D7E5" font-size="14">Accessible experiences</text>
-      <circle cx="701" cy="303" r="3" fill="#7DD3FC"/>
-      <text x="716" y="308" fill="#C7D7E5" font-size="14">Secure, maintainable systems</text>
-      <path d="M694 335H926" stroke="#385063" stroke-width="1"/>
-      <text x="694" y="363" fill="#7DD3FC" font-size="11" letter-spacing="1.3" class="mono">LEARN • BUILD • IMPROVE</text>
+    <!-- Contribution panel -->
+    <g>
+      <rect x="535" y="65" width="430" height="291" rx="8" fill="#0D1117" stroke="#30363D"/>
+      <text x="556" y="91" fill="#F0F6FC" font-size="13" font-weight="600" class="sans">GitHub Contributions</text>
+      <text id="contribution-total" x="944" y="91" text-anchor="end" fill="#3FB950" font-size="10.5" class="mono">SYNC REQUIRED</text>
+      <path d="M535 106H965" stroke="#30363D"/>
+
+      <g id="contribution-month-labels" class="sans" fill="#8B949E" font-size="9.5">
+        <!-- MONTH_LABELS_START -->
+        <!-- MONTH_LABELS_END -->
+      </g>
+
+      <g id="contribution-weekday-labels" class="sans" fill="#8B949E" font-size="8.5">
+        <text x="543" y="170">M</text><text x="543" y="184">W</text><text x="543" y="198">F</text>
+      </g>
+
+      <g id="contribution-grid">
+        <!-- CONTRIBUTION_GRID_START -->
+        <!-- CONTRIBUTION_GRID_END -->
+      </g>
+
+      <text x="556" y="237" fill="#8B949E" font-size="10" class="sans">Each square represents one day</text>
+      <path d="M556 253H944" stroke="#30363D"/>
+
+      <text x="556" y="278" fill="#C9D1D9" font-size="12.5" font-weight="500" class="sans">Learn. Build. Contribute.</text>
+      <text x="556" y="299" fill="#8B949E" font-size="11.5" class="sans">Intelligent applications</text>
+      <text x="556" y="318" fill="#8B949E" font-size="11.5" class="sans">Accessible experiences</text>
+      <text x="556" y="337" fill="#8B949E" font-size="11.5" class="sans">Secure digital systems</text>
+
+      <!-- GitHub contribution palette legend -->
+      <g transform="translate(800 273)">
+        <text x="0" y="8" fill="#8B949E" font-size="9.5" class="sans">Less</text>
+        <rect x="27" y="0" width="9" height="9" rx="2" fill="#161B22" stroke="#30363D" stroke-width=".5"/>
+        <rect x="39" y="0" width="9" height="9" rx="2" fill="#0E4429"/>
+        <rect x="51" y="0" width="9" height="9" rx="2" fill="#006D32"/>
+        <rect x="63" y="0" width="9" height="9" rx="2" fill="#26A641"/>
+        <rect x="75" y="0" width="9" height="9" rx="2" fill="#39D353"/>
+        <text x="89" y="8" fill="#8B949E" font-size="9.5" class="sans">More</text>
+      </g>
     </g>
 
-    <g fill="#0B1119" stroke="#3B5263">
+    <g fill="#0D1117" stroke="#30363D">
       <circle cx="23" cy="23" r="4"/><circle cx="977" cy="23" r="4"/>
       <circle cx="23" cy="397" r="4"/><circle cx="977" cy="397" r="4"/>
     </g>
   </g>
 
-  <rect x=".75" y=".75" width="998.5" height="418.5" rx="22" stroke="url(#edge)" stroke-width="1.5"/>
+  <rect x=".75" y=".75" width="998.5" height="418.5" rx="16" stroke="url(#border)" stroke-width="1.5"/>
 </svg>
