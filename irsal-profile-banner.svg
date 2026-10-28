@@ -1,29 +1,28 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" fill="none" role="img" aria-labelledby="title description">
   <title id="title">Irsal Shydiq — Software Engineering</title>
-  <desc id="description">Irsal Shydiq, Informatics Engineering student and full-stack developer interested in AI applications, accessibility, and secure software. GitHub-inspired dark interface with the Invertocat mark and a developer greeting.</desc>
+  <desc id="description">Irsal Shydiq, Informatics Engineering student and full-stack developer interested in AI applications, accessibility, and secure software. GitHub-inspired dark interface with a green accent palette based on the supplied palette.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1000" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#0D1117"/>
+      <stop stop-color="#101411"/>
+      <stop offset="1" stop-color="#0A241B"/>
     </linearGradient>
 
-    <radialGradient id="ambient" cx="0" cy="0" r="1"
-      gradientTransform="translate(800 190) scale(240 220)"
-      gradientUnits="userSpaceOnUse">
-      <stop stop-color="#238636" stop-opacity=".15"/>
-      <stop offset="1" stop-color="#238636" stop-opacity="0"/>
+    <radialGradient id="ambient" cx="0" cy="0" r="1" gradientTransform="translate(800 190) scale(240 220)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0FBF3E" stop-opacity=".15"/>
+      <stop offset=".55" stop-color="#08872B" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#0FBF3E" stop-opacity="0"/>
     </radialGradient>
 
     <linearGradient id="border" x1="0" y1="0" x2="1000" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#30363D"/>
-      <stop offset=".5" stop-color="#484F58"/>
-      <stop offset="1" stop-color="#30363D"/>
+      <stop stop-color="#232925"/>
+      <stop offset=".5" stop-color="#909692"/>
+      <stop offset="1" stop-color="#232925"/>
     </linearGradient>
 
     <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r=".7" fill="#8B949E" opacity=".12"/>
+      <circle cx="1" cy="1" r=".7" fill="#909692" opacity=".12"/>
     </pattern>
 
     <filter id="greenGlow" x="-100%" y="-100%" width="300%" height="300%" color-interpolation-filters="sRGB">
@@ -59,7 +58,7 @@
     }
 
     .signal {
-      stroke: #238636;
+      stroke: #5FED83;
       stroke-width: 2.5;
       stroke-linecap: round;
       stroke-dasharray: 32 220;
@@ -88,7 +87,9 @@
     }
 
     @media (prefers-reduced-motion: reduce) {
-      .signal, .pulse { animation: none; }
+      .signal, .pulse {
+        animation: none;
+      }
     }
   </style>
 
@@ -98,7 +99,7 @@
     <rect width="1000" height="420" fill="url(#ambient)"/>
 
     <!-- Circuit board -->
-    <g stroke="#30363D" stroke-width="1.2" stroke-linejoin="round">
+    <g stroke="#232925" stroke-width="1.2" stroke-linejoin="round">
       <use href="#route1"/>
       <use href="#route2"/>
       <use href="#route3"/>
@@ -133,7 +134,7 @@
       <use href="#route9" class="signal" style="animation-delay:-3.5s"/>
     </g>
 
-    <g fill="#0D1117" stroke="#484F58" stroke-width="1.3">
+    <g fill="#101411" stroke="#B6BFB8" stroke-width="1.3">
       <circle cx="624" cy="106" r="3"/>
       <circle cx="624" cy="161" r="3"/>
       <circle cx="624" cy="270" r="3"/>
@@ -143,102 +144,79 @@
 
     <!-- Profile identity -->
     <g class="sans">
-      <rect x="64" y="78" width="22" height="3" rx="1.5" fill="#3FB950"/>
+      <rect x="64" y="78" width="22" height="3" rx="1.5" fill="#0FBF3E"/>
 
-      <text x="98" y="85"
-        fill="#3FB950" font-size="11"
-        font-weight="600" letter-spacing="1.8">
+      <text x="98" y="85" fill="#0FBF3E" font-size="11" font-weight="600" letter-spacing="1.8">
         SOFTWARE ENGINEERING
       </text>
 
-      <text x="61" y="158"
-        fill="#F0F6FC" font-size="55"
-        font-weight="650" letter-spacing="-1.9">
+      <text x="61" y="158" fill="#F2F5F3" font-size="55" font-weight="650" letter-spacing="-1.9">
         Irsal
       </text>
 
-      <text x="61" y="215"
-        fill="#F0F6FC" font-size="55"
-        font-weight="650" letter-spacing="-1.9">
-        Shydiq<tspan fill="#3FB950">.</tspan>
+      <text x="61" y="215" fill="#F2F5F3" font-size="55" font-weight="650" letter-spacing="-1.9">
+        Shydiq<tspan fill="#0FBF3E">.</tspan>
       </text>
 
-      <g transform="translate(65 242)"
-        stroke="#3FB950" stroke-width="1.5"
-        stroke-linejoin="round" stroke-linecap="round">
+      <g transform="translate(65 242)" stroke="#5FED83" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round">
         <path d="M0 6L8 2L16 6L8 10Z"/>
         <path d="M3 8V12C6 15 10 15 13 12V8"/>
         <path d="M16 6V12"/>
       </g>
 
-      <text x="91" y="258" fill="#C9D1D9" font-size="14.5">
+      <text x="91" y="258" fill="#B6BFB8" font-size="14.5">
         Informatics Engineering Student
       </text>
 
-      <path d="M64 291H112" stroke="#3FB950" stroke-width="1.5"/>
+      <path d="M64 291H112" stroke="#0FBF3E" stroke-width="1.5"/>
 
-      <text x="64" y="319" fill="#F0F6FC"
-        font-size="15" font-weight="500">
+      <text x="64" y="319" fill="#F2F5F3" font-size="15" font-weight="500">
         Building useful software.
       </text>
 
-      <text x="64" y="343" fill="#8B949E" font-size="13.5">
+      <text x="64" y="343" fill="#909692" font-size="13.5">
         AI applications, accessibility &amp; secure systems.
       </text>
     </g>
 
     <!-- GitHub-themed greeting panel -->
     <g>
-      <rect x="650" y="65" width="305" height="291" rx="10"
-        fill="#0D1117" stroke="#30363D"/>
+      <rect x="650" y="65" width="305" height="291" rx="10" fill="#101411" stroke="#232925"/>
 
-      <!-- Greeting -->
-      <path d="M671 280H934" stroke="#30363D"/>
-      
-      <text x="743" y="91" fill="#F0F6FC"
-        font-size="13" font-weight="600" class="sans">
+      <path d="M671 280H934" stroke="#232925"/>
+
+      <text x="743" y="91" fill="#F2F5F3" font-size="13" font-weight="600" class="sans">
         Hello, developer:)
       </text>
-      
-      <circle cx="932" cy="86" r="4" fill="#3FB950" class="pulse"/>
 
-      <path d="M650 106H955" stroke="#30363D"/>
+      <circle cx="932" cy="86" r="4" fill="#0FBF3E" class="pulse"/>
+      <path d="M650 106H955" stroke="#232925"/>
 
-      <!-- Official-style Invertocat mark, using inline vector geometry -->
-      <circle cx="802" cy="187" r="66"
-        fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+      <!-- Invertocat-style mark -->
+      <circle cx="802" cy="187" r="66" fill="#232925" stroke="#B6BFB8" stroke-width="1.2"/>
+      <circle cx="802" cy="187" r="73" stroke="#08872B" stroke-opacity=".7" stroke-width="1" stroke-dasharray="3 8"/>
 
-      <circle cx="802" cy="187" r="73"
-        stroke="#238636" stroke-opacity=".5"
-        stroke-width="1" stroke-dasharray="3 8"/>
-
-      <g transform="translate(754 139) scale(4)" fill="#F0F6FC">
+      <g transform="translate(754 139) scale(4)" fill="#F2F5F3">
         <path d="M12 .297a12 12 0 0 0-3.79 23.4c.6.111.82-.261.82-.577v-2.234c-3.338.726-4.043-1.416-4.043-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.09-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.108-.775.418-1.305.762-1.605-2.665-.303-5.466-1.334-5.466-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.536-1.524.117-3.176 0 0 1.008-.322 3.301 1.23a11.5 11.5 0 0 1 3.003-.404c1.018.005 2.042.138 3.003.404 2.291-1.552 3.297-1.23 3.297-1.23.655 1.653.243 2.873.12 3.176.77.84 1.233 1.91 1.233 3.221 0 4.609-2.804 5.624-5.475 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.216.694.825.576A12.014 12.014 0 0 0 24 12.297 12 12 0 0 0 12 .297"/>
       </g>
 
-      <!-- Greeting -->
-      <path d="M671 280H934" stroke="#30363D"/>
+      <path d="M671 280H934" stroke="#232925"/>
 
-      <text x="802.5" y="307" text-anchor="middle"
-        fill="#F0F6FC" font-size="16"
-        font-weight="600" class="sans">
+      <text x="802.5" y="307" text-anchor="middle" fill="#F2F5F3" font-size="16" font-weight="600" class="sans">
         Welcome to my corner.
       </text>
 
-      <text x="802.5" y="330" text-anchor="middle"
-        fill="#8B949E" font-size="12.5" class="sans">
+      <text x="802.5" y="330" text-anchor="middle" fill="#B6BFB8" font-size="12.5" class="sans">
         Let's build something meaningful.
       </text>
 
-      <text x="802.5" y="343" text-anchor="middle"
-        fill="#3FB950" font-size="9"
-        letter-spacing="1.2" class="mono">
+      <text x="802.5" y="345" text-anchor="middle" fill="#5FED83" font-size="9" letter-spacing="1.2" class="mono">
         LEARN / BUILD / SHARE
       </text>
     </g>
 
     <!-- Corner details -->
-    <g fill="#0D1117" stroke="#30363D">
+    <g fill="#101411" stroke="#232925">
       <circle cx="23" cy="23" r="4"/>
       <circle cx="977" cy="23" r="4"/>
       <circle cx="23" cy="397" r="4"/>
@@ -246,6 +224,5 @@
     </g>
   </g>
 
-  <rect x=".75" y=".75" width="998.5" height="418.5"
-    rx="16" stroke="url(#border)" stroke-width="1.5"/>
+  <rect x=".75" y=".75" width="998.5" height="418.5" rx="16" stroke="url(#border)" stroke-width="1.5"/>
 </svg>
